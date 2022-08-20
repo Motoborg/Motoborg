@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Motoborg
-- 👀 I’m interested in physics
+- 👀 I’m interested in physics, ML
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...   danushkin@mail.ru
